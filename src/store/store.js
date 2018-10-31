@@ -22,5 +22,8 @@ export const store = new Vuex.Store({
         decrement:state=>{
             state.counter--;
         }
+    },
+    actions:{
+
     }
 });

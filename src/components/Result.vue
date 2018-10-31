@@ -13,10 +13,7 @@
         ...mapGetters([
            'doubleCounter',
            'stringCounter'
-       ]),
-           myOwn(){
-
-           }
+       ])
        }
     }
 </script>
